@@ -26,5 +26,6 @@ int main(){
 	scanf("%f",&weight_kg);
 	float weight_q = weight_kg * KG_TO_Q;
 	printf("Weight: %.2f kg = %.2f Quintals\n", weight_kg, weight_q);
+	return 0;
 }
 
