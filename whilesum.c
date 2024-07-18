@@ -8,5 +8,6 @@ int main(){
 		sum=sum+r;
 		n=n/10;
 	}
-printf("%d",sum);
+	printf("%d",sum);
+	return 0;
 }
